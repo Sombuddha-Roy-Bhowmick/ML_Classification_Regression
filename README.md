@@ -29,10 +29,12 @@ Classifier: Neural Network \
 Accuracy: 0.2569737954353339 \
 AUC: 0.5134307420347073 \
 ------------------------------ \
+
 Classifier: Logistic Regression \
 Accuracy: 0.2465483234714004 \
 AUC: 0.504106131660809 \
-------------------------------  \
+
+------------------------------  
 
 Classifier: Naive Bayes \
 Accuracy: 0.24471682163989855 \
@@ -53,11 +55,13 @@ Best Model based on Accuracy: \
 Classifier: KNN \
 Accuracy: 0.2583826429980276 \
 AUC: 0.5127997701323501 \
+
 ------------------------------ \
 Best Model based on AUC: \
 Classifier: Neural Network \
 Accuracy: 0.2569737954353339 \
-AUC: 0.5134307420347073\
+AUC: 0.5134307420347073 \
+
 ------------------------------ 
 
 # Regression Results
