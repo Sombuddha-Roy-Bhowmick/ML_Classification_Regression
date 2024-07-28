@@ -33,7 +33,7 @@ Classifier: Logistic Regression \
 Accuracy: 0.2465483234714004 \
 AUC: 0.504106131660809 \
 ------------------------------ \ 
-Classifier: Naive Bayes  \
+Classifier: Naive Bayes \
 Accuracy: 0.24471682163989855 \
 AUC: 0.5061201935379426 \
 ------------------------------ \
