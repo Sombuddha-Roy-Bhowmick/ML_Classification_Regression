@@ -13,9 +13,9 @@ Rashad Mammadov. (2024). Lung Cancer Prediction [Data set]. Kaggle. https://doi.
 Target = "Cancer Stage"
 The visualisation of results can be found: "roc_curve.png" 
 
-Classifier: SVM
-Accuracy: 0.2499295576218653 
-AUC: 0.5088218564880819 
+Classifier: SVM \
+Accuracy: 0.2499295576218653 \
+AUC: 0.5088218564880819 \
 ------------------------------ 
 Classifier: 
 KNN Accuracy: 0.2583826429980276 
